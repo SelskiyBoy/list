@@ -1,3 +1,4 @@
+# YouTube
 *youtube.com
 *ytimg.com
 *googlevideo.com
@@ -5,30 +6,64 @@
 *googleusercontent.com
 *googleapis.com
 *ggpht.com
-*intel.com
-*ipinfo.io
-*tableau.com
-*tableausoftware.com
-*speedtestcustom.com
-*openai.com
-*oaistatic.com
-*vertica.com
+*gstatic.com
+
+# Insta
 *instagram.com
 *cdninstagram.com
 *fbcdn.net
-*gstatic.com
-*habr.com
-*dns.google
+
+# OpenAI
+*openai.com
+*oaistatic.com
+*chatgpt.com
+*oaiusercontent.com
+
+# Discord
+*dis.gd
+*discord.co
+*discord.com
+*discord.design
+*discord.dev
+*discord.gg
+*discord.gift
+*discord.gifts
+*discord.media
+*discord.new
+*discord.store
+*discord.tools
+*discord-activities.com
+*discordactivities.com
+*discordapp.com
+*discordapp.net
+*discordmerch.com
+*discordpartygames.com
+*discordsays.com
+*discordstatus.com
+
+# External Block
+*intel.com
+*tableau.com
+*tableausoftware.com
+*vertica.com
 *radarr.video
 *sonarr.tv
 *lidarr.audio
-*chatgpt.com
-*oaiusercontent.com
 *getoutline.com
 *hub.docker.com
 *registry-1.docker.io
 *auth.docker.io
+*oracle.com
+
+# Internal Block
+*habr.com
+*rutracker.org
+*nnmclub.to
+*kino.pub
+
+# Misc
+*ipinfo.io
+*speedtestcustom.com
+*dns.google
 *cloudflareinsights.com
 *cloudflare.com
-*oracle.com
-*rutracker.org
