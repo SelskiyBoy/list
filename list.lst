@@ -128,6 +128,8 @@ facetime-apple-com.we.apple-dns.net
 *spotify.com
 *pexels.com
 *amazon.com
+*slack-edge.com
+*slack.com
 
 # Internal Block
 *habr.com
@@ -139,7 +141,6 @@ facetime-apple-com.we.apple-dns.net
 *medium.com
 *kino.pub
 *nnmclub.to
-*slack.com
 
 # Misc
 *ipinfo.io
