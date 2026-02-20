@@ -128,8 +128,16 @@ facetime-apple-com.we.apple-dns.net
 *spotify.com
 *pexels.com
 *amazon.com
+
+#Slack
 *slack-edge.com
 *slack.com
+*slack-imgs.com
+*slackdns.com
+*slack-files.com
+*slack-status.com
+*slackb.com
+*chime.aws
 
 # Internal Block
 *habr.com
