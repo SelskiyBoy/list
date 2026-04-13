@@ -81,6 +81,9 @@
 149.154.164.0/22
 149.154.167.0/24
 
+149.154.167.99
+core.telegram.org
+
 # FaceTime
 facetime.apple.com
 facetime-apple-com.we.apple-dns.net
