@@ -81,9 +81,6 @@
 149.154.164.0/22
 149.154.167.0/24
 
-149.154.167.0/20
-5.28.128.0/17
-
 # FaceTime
 facetime.apple.com
 facetime-apple-com.we.apple-dns.net
