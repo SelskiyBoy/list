@@ -161,6 +161,10 @@ analytics.radarpayment.online
 *slack.dev
 *chime.aws
 
+#ClickHouse
+*clickhouse.com
+*clickhouse.cloud
+
 # Internal Block
 *habr.com
 *rutracker.org
