@@ -133,6 +133,8 @@ facetime-apple-com.we.apple-dns.net
 *vertica.com
 *radarr.video
 *sonarr.tv
+*bbc.com
+*dw.com
 *lidarr.audio
 *getoutline.com
 *hub.docker.com
@@ -143,10 +145,7 @@ facetime-apple-com.we.apple-dns.net
 *spotify.com
 *pexels.com
 *amazon.com
-*formula1.com
-*boxboxclub.com
 *pgdog.dev
-*bakucitycircuit.com
 analytics.radarpayment.online
 *payrdr.net
 *iqair.com
@@ -165,6 +164,14 @@ analytics.radarpayment.online
 #ClickHouse
 *clickhouse.com
 *clickhouse.cloud
+
+#F1
+*formula1.com
+*f1authentics.com
+*watchliveformula1.com
+*bakucitycircuit.com
+*boxboxclub.com
+*ferrari.com
 
 # Internal Block
 *habr.com
